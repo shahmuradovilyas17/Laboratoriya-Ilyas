@@ -1,0 +1,1 @@
+Laboratoriya işi tamamlandı.
