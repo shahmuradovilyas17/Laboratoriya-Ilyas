@@ -1,0 +1,30 @@
+form {
+  width: 200px;
+  border: 1px solid black;
+  padding: 20px;
+}
+
+.sign-up {
+  color: grey;
+  font-size: 50px;
+}
+
+.img {
+  text-align: center;
+}
+.img img {
+  width: 50%;
+}
+
+input {
+  margin-bottom: 20px;
+  border-radius: 5px;
+}
+
+.signupButton {
+  background-color: rgb(0, 102, 255);
+  color: white;
+  border-radius: 5px;
+  width: 80px;
+  margin-left: 50px;
+}
